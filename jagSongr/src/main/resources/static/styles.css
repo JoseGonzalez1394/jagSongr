@@ -1,0 +1,9 @@
+body {
+background-color: #f4e5cc;
+}
+
+.music {
+background-size: fill;
+background-position: center;
+background-image: url('images/music.jpeg');
+}
