@@ -10,4 +10,6 @@ public class JagSongrApplication {
 		SpringApplication.run(JagSongrApplication.class, args);
 	}
 
+	public static class SongrController {
+	}
 }
